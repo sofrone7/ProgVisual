@@ -1,0 +1,11 @@
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\bin\Debug\Práctica6.exe.config
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\bin\Debug\Práctica6.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\bin\Debug\Práctica6.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.Principal.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.Properties.Resources.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.csproj.GenerateResource.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica6\Práctica6\obj\Debug\Práctica6.AboutBox1.resources
