@@ -1,0 +1,10 @@
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\bin\Debug\ApMultiproceso.exe.config
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\bin\Debug\ApMultiproceso.exe
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\bin\Debug\ApMultiproceso.pdb
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.Form1.resources
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.Properties.Resources.resources
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.csproj.GenerateResource.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.exe
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\BackgroundWorker\obj\Debug\ApMultiproceso.pdb
