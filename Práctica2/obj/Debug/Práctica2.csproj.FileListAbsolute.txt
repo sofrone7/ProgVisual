@@ -1,0 +1,12 @@
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\bin\Debug\Práctica1.exe.config
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\bin\Debug\Práctica1.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\bin\Debug\Práctica1.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica2.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.RelojDigital.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.AcercaDe.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.RelojAnalógico.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.Properties.Resources.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica2.csproj.GenerateResource.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica2.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica2\Práctica2\obj\Debug\Práctica1.pdb
