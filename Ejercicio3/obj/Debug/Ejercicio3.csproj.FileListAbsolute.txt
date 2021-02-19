@@ -1,0 +1,10 @@
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Uni\1er cuatri\Programación Visual\Ejercicios\Ejercicio3\obj\Debug\Ejercicio3.pdb
