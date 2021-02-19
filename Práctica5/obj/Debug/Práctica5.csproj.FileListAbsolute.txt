@@ -1,0 +1,12 @@
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\bin\Debug\Práctica5.exe.config
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\bin\Debug\Práctica5.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\bin\Debug\Práctica5.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.AboutBox1.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.VisorImágenes.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.Properties.Resources.resources
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.csproj.GenerateResource.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.exe
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica5\Práctica5\obj\Debug\Práctica5.VentanaHija.resources
