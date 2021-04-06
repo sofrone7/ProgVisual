@@ -3,7 +3,7 @@
 -Práctica1: Realización de una aplicación que muestre un reloj analógico
 
 -Práctica2: Asignar funcionalidades a los botones del ratón (para arrastrar las manecillas del reloj de la práctica anterior)
-  Modificaciones del aspecto de la aplicación
+Modificaciones del aspecto de la aplicación
   Uso de cajas de diálogo estándar
   
 -Práctica3: Continuación de las 2 prácticas anteriores
