@@ -1,9 +1,9 @@
 # ProgVisual
-<pre>
+
 **-Práctica1:** Realización de una aplicación que muestre un reloj analógico
 
 **-Práctica2:** Asignar funcionalidades a los botones del ratón (para arrastrar las manecillas del reloj de la práctica anterior) <br />
-  Modificaciones del aspecto de la aplicación <br />
+  &nbsp;Modificaciones del aspecto de la aplicación <br />
   Uso de cajas de diálogo estándar
   
 **-Práctica3:** Continuación de las 2 prácticas anteriores <br />
@@ -20,4 +20,4 @@
 **-Práctica7:** Crear y trabajar con base de datos y controles enlazados de datos
 
 **-Práctica8:** Crear y trabajar con aplicaciones y servicios web
-</pre>
+
