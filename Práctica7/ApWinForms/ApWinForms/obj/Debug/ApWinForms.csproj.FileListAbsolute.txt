@@ -1,9 +1,0 @@
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\bin\Debug\ApWinForms.exe.config
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\bin\Debug\ApWinForms.exe
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\bin\Debug\ApWinForms.pdb
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.csprojAssemblyReference.cache
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.Properties.Resources.resources
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.csproj.GenerateResource.cache
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.csproj.CoreCompileInputs.cache
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.exe
-D:\Uni\1er cuatri\Programación Visual\Práctica7\ApWinForms\ApWinForms\obj\Debug\ApWinForms.pdb
