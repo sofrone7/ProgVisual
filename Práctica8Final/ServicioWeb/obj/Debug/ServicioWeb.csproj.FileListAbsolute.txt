@@ -1,0 +1,7 @@
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\bin\ServicioWeb.dll.config
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\bin\ServicioWeb.dll
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\bin\ServicioWeb.pdb
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\obj\Debug\ServicioWeb.csprojAssemblyReference.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\obj\Debug\ServicioWeb.csproj.CoreCompileInputs.cache
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\obj\Debug\ServicioWeb.dll
+D:\Uni\1er cuatri\Programación Visual\Práctica8Real\Práctica8\ServicioWeb\obj\Debug\ServicioWeb.pdb
