@@ -1,6 +1,0 @@
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\bin\Debug\BDFamosos.dll
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\bin\Debug\BDFamosos.pdb
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\obj\Debug\BDFamosos.csprojAssemblyReference.cache
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\obj\Debug\BDFamosos.csproj.CoreCompileInputs.cache
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\obj\Debug\BDFamosos.dll
-D:\Uni\1er cuatri\Programación Visual\Práctica8\ApWinForms\BDFamosos\obj\Debug\BDFamosos.pdb
