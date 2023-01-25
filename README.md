@@ -13,7 +13,7 @@
   &nbsp;Listas para almacenar los datos de la zonas horarias <br />
   &nbsp;Seriación => Guardamos dichos datos en un fichero y los recuperamos
   
-**-Práctica5:** Aplicación MDI que soporta múltiples documentos (imágenes en este caso)
+**-Práctica5:** Aplicación MDI (interfaz de múltiples documentos) que soporta múltiples documentos (imágenes en este caso)
 
 **-Práctica6:** Aplicación para trabajar con hilos (threads)
 
